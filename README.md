@@ -1,4 +1,4 @@
-#Search Recipe App
+# Search Recipe App
 
 Search_recipe app is developed using ReactJS and nextJS is used for server-side rendering of the app.
 Food2Fork API is used for accessing details about different dishes based on the ingredients.
